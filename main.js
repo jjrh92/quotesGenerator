@@ -11,8 +11,8 @@ const quotes = [{
     quote: `"When life leaves us blind, love keeps us kind."`,
     person: `Chester Bennington`
  }, {
-    quote: `"There isn't a flight goes by when I don't stare out of the window and thank my lucky stars for what I'm feeling and seeing."`,
-    person: `Richard Branson`
+    quote: `"To improve is to change; to be perfect is to change often."`,
+    person: `Winston Churchill`
  }, {
     quote: `"Behind every great man is a woman rolling her eyes."`,
     person: `Jim Carrey`
@@ -26,14 +26,14 @@ const quotes = [{
     quote: `"Never let the fear of striking out keep you from playing the game."`,
     person: `Babe Ruth`
  }, {
-    quote: `"Before you marry a person, you should first make them use a computer with slow Internet to see who they really are."`,
-    person: `Will Ferrel`
+    quote: `"Be yourself. No one can say you are doing it wrong."`,
+    person: `Charlie Brown`
  }, {
-    quote: `"The phrase seeing the elephant refers to gaining experience of the world at a significant cost."`,
+    quote: `"The phrase 'seeing the elephant' refers to gaining experience of the world at a significant cost."`,
     person: `Americanism`
  }, {
-    quote: `"The thruth is that you always know the right thing to do. The tough part is doing it."`,
-    person: `Norman Schwarzkopf`
+    quote: `"Limit your 'always' and your 'nevers'."`,
+    person: `Amy Poehler​​`
  }, ];
 
 btn.addEventListener ("click", function (){
